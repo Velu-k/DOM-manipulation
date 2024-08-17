@@ -1,0 +1,8 @@
+1.Creating elements(div,strong,)
+2.difference between innerText and textContent
+textContent - just copies the text
+innerText - we can edit i.e. <span style="display: none;">Hello </span> it doesn't show
+3.innerHTML
+4.Accessing by elements(id,title,custom dataset)
+5.get and set attribute
+6.Classes(add,remove,toggle)
